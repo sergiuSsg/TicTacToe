@@ -2,4 +2,4 @@
 Tic Tac Toe Game Created in React
 
 
-(one of the first versions, will upload soon a new version)
+(One of the first versions, will upload soon a new version.)
