@@ -1,8 +1,3 @@
-/*checks all combinations from lines array and if any of them has all the
-3 elements the same then it returns the same element as the winner (o or x)
-otherwise returns null*/
-
-
 export function calculateWinner(squares) {
     const lines = [
         [0, 1, 2],
