@@ -18,7 +18,7 @@ const Game = () => {
     const draw = (board.every(elem => elem !== null));
 
 
-    function handleClick(index) {
+    const handleClick = (index) => {
         const boardCopy = [...board]
         if (winner || boardCopy[index]) return
         //boardCopy[index] = xTurn ? "X" : "O";
