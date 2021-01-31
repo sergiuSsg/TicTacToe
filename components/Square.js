@@ -1,11 +1,10 @@
 import React from "react"
 import "../styles.css"
 
-const Square = ({ onClick, value }) => (
-    <button className="square" onClick={onClick}>
+const Square = ({ handleClick, value }) => (
+    <button className="square" onClick={handleClick}>
         {value}
     </button>
 )
 
 export default Square
-
