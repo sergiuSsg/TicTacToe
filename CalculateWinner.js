@@ -1,3 +1,7 @@
+/*checks all combinations from lines array and if any of them has all the
+3 elements the same, it returns the same element as the winner (X or O),
+otherwise returns null*/
+
 export function calculateWinner(squares) {
     const lines = [
         [0, 1, 2],
@@ -18,11 +22,7 @@ export function calculateWinner(squares) {
     return null;
 }
 
-
-
-
-/*
-//example:
+/* //example:
 
 const squares = [
     "O", null, null,
