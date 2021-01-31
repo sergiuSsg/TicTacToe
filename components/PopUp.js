@@ -46,7 +46,7 @@ export default function PopUp(props) {
         return (
             <Modal isOpen={modalOpen} className="popup">
                 <div className="grid-container">
-                    <h3 className="endWinner">{winner} won</h3>
+                    <h3 className="endWinner">{winner} WON!</h3>
                     <h4 className="scoreEnd">X:&ensp;{xWins}&emsp;--&emsp;O:&ensp;{oWins}</h4>
                     <div className="continueButton">
                         <button onClick={() => {
