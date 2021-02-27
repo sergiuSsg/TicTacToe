@@ -12,4 +12,4 @@ While creating this, I made use of some of the following:
 -Hooks
 -CSS styling with CSS Grid
 -React Modal
--JSX syntax
+-JSX
