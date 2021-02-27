@@ -9,7 +9,7 @@ While creating this, I made use of some of the following:
 -Reusable Components
 -Children
 -Props
--Hooks(useEffect, useState)
+-Hooks
 -CSS styling with CSS Grid
 -React Modal
 -JSX syntax
