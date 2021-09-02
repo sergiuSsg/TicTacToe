@@ -1,4 +1,4 @@
-Tic Tac Toe - React.Js
+Tic Tac Toe - React
 
 
 
