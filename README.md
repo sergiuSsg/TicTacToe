@@ -1,4 +1,4 @@
-Tic Tac Toe - React
+Tic Tac Toe - React (2 players)
 
 
 
